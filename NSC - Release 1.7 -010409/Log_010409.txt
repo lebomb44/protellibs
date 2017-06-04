@@ -1,0 +1,55 @@
+Altium Limited
+
+
+National Semiconductor
+Batch Number 010409
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+07-Apr-2009  (release 1.7)
+30-Jan-2009  (release 1.6)
+15-Dec-2008  (release 1.3)
+14-Mar-2008
+13-Apr-2006
+02-Mar-2006
+06-Jun-2005
+04-Mar-2005
+11-Oct-2004
+17-Sep-2003
+17-Jan-2003
+23-Sep-2002
+17-Jul-2002
+15-Apr-2002
+12-Jul-2000
+08-Jun-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+NSC Amplifier.IntLib
+              
+* LMV321M5, LMV321M7
+Schematic pin-out changed: IN+ to 1, IN- to 3, OUT to 4.
+
+* LMV551MF
+Sim Model port mapping fixed.
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

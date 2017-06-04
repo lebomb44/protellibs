@@ -1,0 +1,88 @@
+Altium Limited
+
+
+Microchip
+Batch Number 010209
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+29-Jan-2009
+13-Apr-2006
+02-Mar-2006
+06-Oct-2005
+04-Mar-2005
+11-Oct-2004
+08-Jun-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+29-Jan-2009
+
+Added:
+Microchip DSC 16-Bit dsPIC30F.IntLib
+Microchip DSC 16-Bit dsPIC33F.IntLib
+Microchip EEPROM I2C Serial.IntLib
+Microchip EEPROM Microwire Serial.IntLib
+Microchip EEPROM SPI Serial.IntLib
+Microchip EEPROM UIO Serial.IntLib
+Microchip Interface.IntLib
+Microchip KEELOQ Decoder.IntLib
+Microchip KEELOQ Encoder.IntLib
+Microchip KEELOQ Transcoder.IntLib
+Microchip Linear Devices.IntLib
+Microchip Microcontroller 8-Bit PIC10.IntLib
+Microchip Microcontroller 16-Bit PIC24F.IntLib
+Microchip Microcontroller 16-Bit PIC24H.IntLib
+Microchip Microcontroller 32-Bit PIC32.IntLib
+Microchip Mixed Signal.IntLib
+Microchip Power Mgt Battery Management.IntLib
+Microchip Power Mgt Charge Pump.IntLib
+Microchip Power Mgt CPU-System Supervisors.IntLib
+Microchip Power Mgt Hot Swap.IntLib
+Microchip Power Mgt Line Regulator.IntLib
+Microchip Power Mgt MOSFET Driver.IntLib
+Microchip Power Mgt PWM Controller.IntLib
+Microchip Power Mgt Switching Regulator.IntLib
+Microchip Power Mgt Voltage Detector.IntLib
+Microchip Power Mgt Votage Reference.IntLib
+Microchip Radio Frequency Devices.IntLib
+Microchip Thermal Management.IntLib
+
+
+Updated:
+Microchip Microcontroller 8-Bit PIC12.IntLib
+Microchip Microcontroller 8-Bit PIC14.IntLib
+Microchip Microcontroller 8-Bit PIC18.IntLib
+
+Deleted:
+Microchip Microcontroller 8-Bit PIC17.IntLib
+Microchip Interface Line Transceiver.IntLib
+
+
+Replaced:
+Microchip Microcontroller 8-Bit PIC16 1.IntLib
+Microchip Microcontroller 8-Bit PIC16 2.IntLib
+Microchip Microcontroller 8-Bit PIC16F.IntLib
+With:
+Microchip Microcontroller 8-Bit PIC16.IntLib
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

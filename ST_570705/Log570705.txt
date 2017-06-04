@@ -1,0 +1,68 @@
+Altium Limited
+
+
+ST-Microelectronics
+Batch Number 570705
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+08-Jul-2005
+06-Jun-2005
+04-Mar-2005
+26-May-2004
+19-Mar-2004
+21-May-2003
+11-Dec-2002
+17-Jul-2002
+24-Aug-2001
+29-Sep-2000
+08-Jun-2000
+
+
+New Components
+~~~~~~~~~~~~~~
+ST Data Line Filter.IntLib (2)
+ST Power Mgt Voltage Regulator.IntLib (88)
+    
+    
+Modifications
+~~~~~~~~~~~~~
+URL Support Added.
+Stylized 3D Models Added.
+
+ST Memory EPROM 16-512 Kbit.IntLib
+Added dash to the ordering code.
+(328) Components: M27C256B, M27C64A
+
+ST Power Mgt Voltage Regulator.IntLib
+Added dash to the ordering code.
+(12) Components: L7805/6/8, L7815/6, L7824
+
+ST Power Mgt Voltage Regulator.IntLib
+PCB pads lengthened.
+(128) Components with TO-252 package
+
+ST Power Mgt Voltage Regulator.IntLib
+PCB Pin sequence re-ordered.
+(82) Components with TO-220A package
+(50) Components with TO-220FP package
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

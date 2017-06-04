@@ -1,0 +1,176 @@
+Altium Limited
+
+
+QA Footprints
+Batch Number 110209
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+29-Jan-2009
+16-Nov-2007
+31-Jul-2006
+18-Aug-2005
+08-Jul-2005
+13-Dec-2004
+11-Oct-2004
+15-Jul-2004
+26-May-2004
+19-Mar-2004
+16-Feb-2004
+21-May-2003
+11-Feb-2003
+31-Oct-2002
+27-Aug-2001
+11-May-2001
+
+
+New Libraries (34)
+~~~~~~~~~~~~~~~~~
+BGA_Sq_40P.PcbLib
+Con Board-to-Board.PcbLib
+Con Low Power.PcbLib
+DPAK_L.PcbLib
+DPAK_M.PcbLib
+DPAK_N.PcbLib
+LCC_Sq_L.PcbLib
+LCC_Sq_M.PcbLib
+LCC_Sq_N.PcbLib
+MicroSMD_40P_V.PcbLib
+MicroSMD_50P_V.PcbLib
+QFN_Rect_50P_Side_V.PcbLib
+QFN_Sq_40P_Side_L.PcbLib
+QFN_Sq_40P_Side_M.PcbLib
+QFN_Sq_40P_Side_N.PcbLib
+QFN_Sq_40P_Side_V.PcbLib
+QFN_Sq_65P_Side_V.PcbLib
+QFP_Thin_Sq_50P_Side_V.PcbLib
+QFP_Thin_Sq_65P_Side_V.PcbLib
+SON_127P_V.PcbLib
+SON_40P_L.PcbLib
+SON_40P_M.PcbLib
+SON_40P_N.PcbLib
+SON_40P_V.PcbLib
+SON_50P_L.PcbLib
+SON_50P_M.PcbLib
+SON_50P_N.PcbLib
+SON_50P_V.PcbLib
+SON_65P_L.PcbLib
+SON_65P_M.PcbLib
+SON_65P_N.PcbLib
+SON_65P_V.PcbLib
+SON_80P_V.PcbLib
+SON_95P_V.PcbLib
+
+
+
+Replaced Libraries (87)
+~~~~~~~~~~~~~~~~~~~~~~~
+BGA_Rect.PcbLib
+BGA_Sq_100P.PcbLib
+BGA_Sq_127P.PcbLib
+BGA_Sq_50P.PcbLib
+BGA_Sq_80P.PcbLib
+CAN - Circle pin arrangement.PcbLib
+Ceramic DFP.PcbLib
+CGA_Sq_100P.PcbLib
+Con FPC-FFC.PcbLib
+Con Rect Stag PCB.PcbLib
+Con RF Coaxial.PcbLib
+CQFP_Sq_50P_Side_L.PcbLib
+CQFP_Sq_50P_Side_M.PcbLib
+CQFP_Sq_50P_Side_N.PcbLib
+Cylinder with Flat Index.PcbLib
+Diamond Base CAN - 2 Leads.PcbLib
+DPAK_L.PcbLib
+DPAK_M.PcbLib
+DPAK_N.PcbLib
+Dual-In-Line Package.PcbLib
+Leaded Chip Carrier - Rectangle.PcbLib
+Miscellaneous.PcbLib
+PLCC_Sq_127P_Ctr_L.PcbLib
+PLCC_Sq_127P_Ctr_M.PcbLib
+PLCC_Sq_127P_Ctr_N.PcbLib
+QFN_Rect_50P_Side_V.PcbLib
+QFN_Sq_50P_Side_L.PcbLib
+QFN_Sq_50P_Side_M.PcbLib
+QFN_Sq_50P_Side_N.PcbLib
+QFN_Sq_50P_Side_V.PcbLib
+QFN_Sq_65P_Side_L.PcbLib
+QFN_Sq_65P_Side_M.PcbLib
+QFN_Sq_65P_Side_N.PcbLib
+QFN_Sq_65P_Side_V.PcbLib
+QFP_Shrink_Rect_50P_Side_M.PcbLib
+QFP_Shrink_Rect_50P_Side_N.PcbLib
+QFP_Thin_Sq_40P_Side_L.PcbLib
+QFP_Thin_Sq_40P_Side_M.PcbLib
+QFP_Thin_Sq_40P_Side_N.PcbLib
+QFP_Thin_Sq_50P_Side_L.PcbLib
+QFP_Thin_Sq_50P_Side_M.PcbLib
+QFP_Thin_Sq_50P_Side_N.PcbLib
+QFP_Thin_Sq_80P_Side_L.PcbLib
+QFP_Thin_Sq_80P_Side_M.PcbLib
+QFP_Thin_Sq_80P_Side_N.PcbLib
+Small Outline Diode - 2 Yoke Leads.PcbLib
+Small Outline Diode - 2 Z-Bend Leads.PcbLib
+SOIC_127P_L.PcbLib
+SOIC_127P_M.PcbLib
+SOIC_127P_N.PcbLib
+SON_50P_V.PcbLib
+SON_65P_V.PcbLib
+SON_80P_V.PcbLib
+SON_95P_V.PcbLib
+SOP_635P_L.PcbLib
+SOP_635P_M.PcbLib
+SOP_635P_N.PcbLib
+SOP_65P_L.PcbLib
+SOP_65P_M.PcbLib
+SOP_65P_N.PcbLib
+SOP_80P_L.PcbLib
+SOP_80P_M.PcbLib
+SOP_80P_N.PcbLib
+SOT223_L.PcbLib
+SOT223_M.PcbLib
+SOT223_N.PcbLib
+SOT23_5-6Lead_L.PcbLib
+SOT23_5-6Lead_M.PcbLib
+SOT23_5-6Lead_N.PcbLib
+SOT23_L.PcbLib
+SOT23_M.PcbLib
+SOT23_N.PcbLib
+SOT89_L.PcbLib
+SOT89_M.PcbLib
+SOT89_N.PcbLib
+TSOP_65P_L.PcbLib
+TSOP_65P_M.PcbLib
+TSOP_65P_N.PcbLib
+TSSOP_50P_L.PcbLib
+TSSOP_50P_M.PcbLib
+TSSOP_50P_N.PcbLib
+TSSOP_55P_L.PcbLib
+TSSOP_55P_M.PcbLib
+TSSOP_55P_N.PcbLib
+Vertical, Dual-Row, Flange Mount with Tab.PcbLib
+Vertical, Single-Row, Flange Mount with Tab.PcbLib
+Zig-Zag-In-Line Package Odd Lead Number.PcbLib
+
+
+
+Deleted Libraries (1)
+~~~~~~~~~~~~~~~~~~~~~~~
+D-PAK.PcbLib
+
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/community/libraries/).
+
+
+Library News
+~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/community/libraries/
